@@ -1,0 +1,1 @@
+Small project using CSS Flexbox to create a sample landing page for a static website.
